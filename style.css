@@ -34,7 +34,7 @@ body{
 
 .cat-card{
 
-    width:390px;
+    width:550px;
 
     background:#2b2b2b;
 
@@ -57,9 +57,9 @@ body{
 
     display:grid;
 
-    grid-template-columns:110px 1fr;
+    grid-template-columns:95px 1fr;
 
-    gap:18px;
+    gap:28px;
 
     padding:22px;
 
